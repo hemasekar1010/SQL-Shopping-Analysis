@@ -74,6 +74,6 @@ To ensure data quality
 🧠 Author
 Hemavathy Data enthusiast | Visualization explorer | python | sql
 
-Connect on [LinkedIn](www.linkedin.com/in/hemavathy-dhanasekar98)
+Connect on [LinkedIn](https://www.linkedin.com/in/hemavathy-dhanasekaran98/)
 
 Email: hemasekar1010@gmail.com

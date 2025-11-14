@@ -71,3 +71,9 @@ To ensure data quality
 
 •	Customer segmentation and behavioral analysis
 
+🧠 Author
+Hemavathy Data enthusiast | Visualization explorer | python | sql
+
+Connect on [linkedin](www.linkedin.com/in/hemavathy-dhanasekar98)
+
+Email: hemasekar1010@gmail.com
